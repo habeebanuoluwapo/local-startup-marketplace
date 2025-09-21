@@ -1,5 +1,9 @@
 # Local Startup Marketplace
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/habeebanuoluwapo/local-startup-marketplace)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/habeebanuoluwapo/local-startup-marketplace/blob/main/LICENSE)
+[![Blockchain](https://img.shields.io/badge/blockchain-Stacks-orange)](https://stacks.co/)
+
 A decentralized platform connecting local entrepreneurs through blockchain-based startup registration, mentorship coordination, and resource allocation systems to foster community-driven business development.
 
 ## 🌟 Overview
